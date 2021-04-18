@@ -1,0 +1,11 @@
+test.c:27:6:Test_program	8	static
+test.c:46:6:Test_Display_Backlight	8	static
+test.c:78:6:Test_Display_Characters	8	static
+test.c:91:6:Test_uart	64	static
+test.c:134:6:Test_Error_Handler	16	static
+test.c:148:6:Test_numbers	16	static
+test.c:164:6:Test_adc	16	static
+test.c:231:6:Test_clock	8	static
+test.c:249:6:Test_PWM	16	static
+test.c:266:6:Test_Dim_display	8	static
+test.c:279:6:Test_combo	8	static

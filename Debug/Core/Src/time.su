@@ -1,0 +1,4 @@
+time.c:31:6:Display_number	16	static
+time.c:93:6:Large_number	48	static
+time.c:114:6:Set_user_clock	40	static
+time.c:220:6:Display_clock	8	static

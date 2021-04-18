@@ -1,0 +1,5 @@
+display_functions.c:22:6:SPI_send_display	24	static
+display_functions.c:67:6:Backlight_color	16	static
+display_functions.c:106:6:Init_display	8	static
+display_functions.c:139:6:Write_display	16	static
+display_functions.c:152:6:Dim_display	16	static
