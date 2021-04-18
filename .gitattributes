@@ -1,2 +1,2 @@
-stm32l4xx_hal_flash_ramfunc.h linguist-detectable=false
+*.h linguist-detectable=false
 *.c linguist-detectable=true
